@@ -13,6 +13,7 @@ This project is a static website developed for a school, designed to provide ess
 
 ## Project Structure
 
+```
 school-website/
 │
 ├── home.html # Home Page
@@ -34,7 +35,7 @@ school-website/
 │
 ├── README.md # Project README file
 └── ...
-
+```
 
 ## Technologies Used
 
