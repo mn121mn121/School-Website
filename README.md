@@ -35,6 +35,7 @@ school-website/
 ├── README.md # Project README file
 └── ...
 
+
 ## Technologies Used
 
 - **HTML**: For the structure and content of the web pages.
@@ -43,4 +44,4 @@ school-website/
 
 ## Link to the Website:
 
-[http://tagoreacademy.free.nf/?i=2] (http://tagoreacademy.free.nf/?i=2)
+http://tagoreacademy.free.nf/?i=2
