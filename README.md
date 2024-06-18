@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a static website developed for a school, designed to provide essential information about the institution. The website includes a Home page, About Us page, Facilities page, and a Login page. The Login page is a visual mockup and is not connected to a database. The website is built using HTML, CSS, and a bit of JavaScript to enhance user experience.
+This project is a static website developed for a school, designed to provide essential information about the institution. The website includes a Home page, About Us page, Facilities page, and a Login page. The Login page is a visual mockup and is not connected to a database but have some predefined username and password like (principal-pass , staff1-a1 , staff2-a2 (format username-password )). The website is built using HTML, CSS, and a bit of JavaScript to enhance user experience.
 
 ## Features
 
